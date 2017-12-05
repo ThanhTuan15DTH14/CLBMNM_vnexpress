@@ -1,0 +1,23 @@
+body{
+	font-family: ;
+	font-size: ;
+	background-image: 
+}
+/*header*/
+.top-bar {
+    background-color: ;
+}
+.user{
+	background-color: #ff80ff;
+	height: 200px;
+	width: 200px;
+}
+.content{
+	background-color: #999966;
+	height: 200px;
+	width: 240px;
+	position: absolute;
+	top: 230px;
+	left: 50px;
+	opacity: 0.5;
+}
